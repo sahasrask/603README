@@ -47,7 +47,7 @@ Data Modeling: Data analysis is done during the data modeling process, and the o
 Data Delivery: The generation of reports based on the findings of the modeling phase completes the data delivery phase.
 
 
-###Challenges in Big Data analysis
+##Challenges in Big Data analysis
 
 Data Accessibility: Big data has the potential to offer organizations useful insights, but getting access to and using it may be quite difficult. Big data management is challenging due to three main factors: volume, variety, and velocity.
 
