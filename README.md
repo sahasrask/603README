@@ -16,7 +16,7 @@ Structured Data: Data that is organized and stored in one particular form is kno
 
 Semi-Structured Data: Data that is less organized than structured data but has its own kind of format. This type of data does not have a strict type but can be organized hierarchically.
 
-Unstructured Data: Data that is not organized in a specific format. It is hard to analyze this type of data. 
+Unstructured Data: Data that is not ordered or organized in any particular format. It is hard to analyze this type of data. 
 
 ###6 V's of Big Data
 
@@ -65,6 +65,12 @@ Data Quality Maintenance:
 With the large amount and variety of data, maintaining data quality is essential. For organizations, poor data quality can lead to incorrect evaluations and expensive decisions. Organizations need a clear data management strategy to deal with this. The responsibility for maintaining data quality should be assigned in this plan, together with criteria for data collection and processing as well as processes for error fixing. In addition, maintaining accurate, current knowledge of the source data's origin, format, and relationships is crucial for guaranteeing data quality.
 
 
-Data Security:::::
+Data Security:
 
 Organizations become increasingly popular targets for hackers as they collect large data warehouses. Security breaches can have serious consequences, including losing customers, harming one's brand, and suffering financial losses. Organizations should create a multi-layered data security plan to reduce these threats. Data protection training and employee awareness are essential elements. Strong passwords, encryption, and secure networks should all be used for storing and transmitting data securely. Data security must be maintained by regular inspections of safety and modifications to address new threats.
+
+ - Batko, K., Ślęzak, A. The use of Big Data Analytics in healthcare. J Big Data 9, 3 (2022). https://doi.org/10.1186/s40537-021-00553-4
+
+ - Hiba Basim Alwan and  Ku Ruhana Ku-Mahamud (2020). Big data: definition, characteristics, life cycle, applications, and challenges. Retrieved from https://iopscience.iop.org/article/10.1088/1757-899X/769/1/012007/pdf
+
+
