@@ -18,7 +18,7 @@ Semi-Structured Data: Data that is less organized than structured data but has i
 
 Unstructured Data: Data that is not ordered or organized in any particular format. It is hard to analyze this type of data. 
 
-##6 V's of Big Data
+### 6 V's of Big Data
 
 Volume: The passage illustrates an astonishing rise in data volume as of 2012, especially in the context of big data analysis. It claims that at the time, 2.5 exabytes (2.5 billion gigabytes) of data were produced every day. Even more amazing is the fact that the rate of data generation was almost doubling every 40 months. Just two decades ago, the internet had much less data than it does today due to the internet's rapid data production.
 
@@ -32,7 +32,7 @@ Value: The goal of big data analytics is to discover hidden knowledge from huge 
 
 Variability: In a few cases, the data doesn’t flow at a constant rate, and it is challenging to manage these data gaps, especially when dealing with real-time data sources. Variability deals with inconsistencies in data flows.
 
-##Phases of Big Data Analysis
+### Phases of Big Data Analysis
 
 The phases involved in Big Data are data collection, data cleaning, data classification, data modeling, and data delivery.
 
@@ -47,7 +47,7 @@ Data Modeling: Data analysis is done during the data modeling process, and the o
 Data Delivery: The generation of reports based on the findings of the modeling phase completes the data delivery phase.
 
 
-##Challenges in Big Data analysis
+### Challenges in Big Data analysis
 
 Data Accessibility: Big data has the potential to offer organizations useful insights, but getting access to and using it may be quite difficult. Big data management is challenging due to three main factors: volume, variety, and velocity.
 
@@ -69,7 +69,7 @@ Data Security:
 
 Organizations become increasingly popular targets for hackers as they collect large data warehouses. Security breaches can have serious consequences, including losing customers, harming one's brand, and suffering financial losses. Organizations should create a multi-layered data security plan to reduce these threats. Data protection training and employee awareness are essential elements. Strong passwords, encryption, and secure networks should all be used for storing and transmitting data securely. Data security must be maintained by regular inspections of safety and modifications to address new threats.
 
-##References
+### References
 
  - Batko, K., Ślęzak, A. The use of Big Data Analytics in healthcare. J Big Data 9, 3 (2022). https://doi.org/10.1186/s40537-021-00553-4
 
